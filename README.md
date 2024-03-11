@@ -10,7 +10,7 @@ The current process of reviewing user reports generates a large volume of data t
 This project represents a critical initiative within TikTok's data team, as we strive to leverage machine learning techniques to enhance the platform's content moderation capabilities. In the following sections, we will outline the remaining tasks necessary to complete the claims classification project, including model building, evaluation, and summarizing findings for cross-departmental stakeholders. By successfully implementing this final machine learning model, we aim to make a tangible impact on TikTok's ability to maintain a safe and engaging environment for our diverse community of users.
 
 ## Problem Statement:
-#### TikTok faces a challenge in efficiently moderating user-generated content due to the overwhelming volume of user reports; a predictive model for claims classification is being developed to automate identification, reducing backlog and enabling prioritized moderation.
+#### Develop a machine learning model to classify TikTok videos as either "Claim" or "Opinion," prioritizing user reports efficiently for moderation, reducing backlog, and enhancing platform experience.
 
 ## Objective
 Developing a machine learning model for claims classification will streamline content moderation on TikTok, enabling timely identification of videos containing claims or opinions, thereby improving efficiency and enhancing user experience.
