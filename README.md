@@ -1,5 +1,5 @@
 
-# Tiktok - ML - Graphical User Interface - Random Forest - Extreme Gradient Boosting - Classification Model
+# Tiktok - Machine Learning Models - Graphical User Interface - Random Forest - Extreme Gradient Boosting - Classification Model
 
 ## Introduction:
 
